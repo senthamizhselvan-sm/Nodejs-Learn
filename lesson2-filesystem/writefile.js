@@ -14,6 +14,7 @@ async function WriteFile() {
       rename(path.join(__dirname , 'Fileexample', 'writefile.txt'), path.join(__dirname , 'Fileexample', 'afterwritefile.txt'), (err) => {
         if (err) throw err;
         console.log('rename completed!');
+        //call back hell
       });
     });
   } catch (err) {
