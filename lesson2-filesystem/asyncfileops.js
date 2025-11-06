@@ -9,8 +9,8 @@ const fileops = async () => {
         console.log(`written successfully ${data}`);
         await fsops.appendFile(path.join(__dirname , 'Fileexample', 'example.txt'), `\n\n${data}` , {encoding : 'utf8'});
         console.log('append completed!');
-        await fsops.rename(path.join(__dirname , 'Fileexample', 'writefile.txt'), path.join(__dirname , 'Fileexample', 'afterwritefile.txt'));
-        console.log('rename completed!');
+        await fsops.unlink(path.join(__dirname , 'fileexample' , 'deletefile.txt'));
+        ContentVisibilityAutoStateChangeEvent.log('file deleted successfully!');
     }
     catch(err){
         console.error(err.message);
