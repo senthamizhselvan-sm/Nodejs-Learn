@@ -1,3 +1,9 @@
 2025-11-07 	 14:09:24 	 7890a654-2285-4459-bc52-76608d79bfa2 	 Log message
 2025-11-07 	 14:09:39 	 6ff59515-08c7-49c3-b162-a62f31b7f4b9 	 Log message
 2025-11-07 	 21:13:58 	 3b56c962-e4e9-4bae-8b70-be2fbc58b12a 	 Log message
+2025-11-08 	 19:30:15 	 cb77e632-bac8-4114-abe2-228edfa1f3a4 	 /	GET
+2025-11-08 	 19:30:15 	 c78753b7-d6c4-4527-818d-23a9a61c654f 	 /css/style.css	GET
+2025-11-08 	 19:30:15 	 f8a3e28e-887f-4146-8487-d9ba58b3d543 	 /favicon.ico	GET
+2025-11-08 	 19:48:50 	 759af019-0b39-4847-8b7b-4f8b05cb7d2e 	 /new-page	GET
+2025-11-08 	 19:48:50 	 00ef9670-4128-40d8-af80-9b06d2ebe888 	 /css/style.css	GET
+2025-11-08 	 19:48:50 	 cabc3be4-4cd2-430e-9ec7-7774508dba72 	 /img/img1.jpg	GET
